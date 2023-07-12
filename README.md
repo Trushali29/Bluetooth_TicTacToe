@@ -14,7 +14,9 @@ While the respective player is performing its own action other player which is i
 ![image](https://github.com/Trushali29/Bluetooth_TicTacToe/assets/84562990/2d990d2c-5a96-452b-a46d-18e7c960d9ab)
 ![image](https://github.com/Trushali29/Bluetooth_TicTacToe/assets/84562990/cbfc9e99-48b8-4957-984b-957bafc24a6c)
 
-**This app was a part of group project in college were my contributuion was to have a bluetooth connection between two players to allow the message communication be seamless. Updated and Display opponents actions on both players devices.**
+**This app was a part of group project in college were my contributuion was to have a bluetooth connection between two player devices.** 
+
+**Allow the message communication via bluetooth between devices. Updated and Display opponents actions on both player devices.**
 
 **References:**
 1. https://www.freecodecamp.org/news/how-to-get-started-with-multithreading-in-java/
