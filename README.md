@@ -15,7 +15,7 @@ Images of our TicTacToe gaming app
 This app was a part of group project in college were my contributuion was to have a bluetooth connection between two players to allow the message communication be seamless. Updated and Display opponents actions on both players devices.
 
 References:
-1. [https://github.com/android/connectivity-samples/tree/master/BluetoothChat](https://www.freecodecamp.org/news/how-to-get-started-with-multithreading-in-java/)
+1. https://www.freecodecamp.org/news/how-to-get-started-with-multithreading-in-java/
 2. https://www.c-sharpcorner.com/UPLOADFILE/0E8478/CONNECTING-DEVICES-AS-CLIENT-AND-SERVER-ARCHITECTURE-IN-ANDR/
 3. https://www.egr.msu.edu/classes/ece480/capstone/spring14/group01/docs/appnote/Wirsing-SendingAndReceivingDataViaBluetoothWithAnAndroidDevice.pdf
 4. https://www.youtube.com/watch?v=NR1sDXMzyww&list=PLFh8wpMiEi8_I3ujcYY3-OaaYyLudI_qi
