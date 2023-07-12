@@ -1,5 +1,6 @@
 # Bluetooth_TicTacToe
 A Two player bluetooth gaming app
+
 **Technologies Used**
 Android Studio, Java, UX/UI for game designing
 
