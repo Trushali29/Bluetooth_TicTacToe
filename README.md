@@ -1,5 +1,10 @@
 # Bluetooth_TicTacToe
 A Two player Bluetooth gaming app
+**A video of the TicTacToe game**
+
+
+https://github.com/Trushali29/Bluetooth_TicTacToe/assets/84562990/ae373519-e806-4a65-8285-27881fe4dd27
+
 
 **Technologies Used**
 
@@ -7,7 +12,7 @@ Android Studio, Java, UX/UI for game designing.
 
 This app lets players play synchronously connected via Bluetooth.
 Each player has their turn the actions of the player are passed on as a message via Bluetooth.
-While the respective player is performing its own action, the other player, which is idle, is blocked to prevent its attempt at illegal moves.
+While the respective player is performing its action, the other player, which is idle, is blocked to prevent its attempt at illegal moves.
 
 **Images of our TicTacToe gaming app**
 ![image](https://github.com/Trushali29/Bluetooth_TicTacToe/assets/84562990/270d1d85-f02f-4e41-91ee-c1ea6c791186)
