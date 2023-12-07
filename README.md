@@ -1,11 +1,11 @@
 # Bluetooth_TicTacToe
 A Two player Bluetooth gaming app
+For the whole game go to :- https://drive.google.com/drive/folders/1QG_wybZ4oMhtOsPZrxbtrNYAo5kPtF0o?usp=sharing
 
 **A video of the TicTacToe game**
 
 
 https://github.com/Trushali29/Bluetooth_TicTacToe/assets/84562990/ae373519-e806-4a65-8285-27881fe4dd27
-
 
 
 **Technologies Used**
