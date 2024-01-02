@@ -6,7 +6,7 @@ A zip file is available of the whole game
 
 
 
-
+https://github.com/Trushali29/Bluetooth_TicTacToe/assets/84562990/b90fbd82-6d1e-4b1c-b1be-61c39d874aab
 
 https://github.com/Trushali29/Bluetooth_TicTacToe/assets/84562990/ae373519-e806-4a65-8285-27881fe4dd27
 
